@@ -1,0 +1,32 @@
+/*!
+ * Theme Name: Genox -  Multipurpose HTML Template
+ * Version: 1.4.1
+ * Updated: 11.27.2019
+**/
+/* 01. Fonts */
+@font-face { font-family: 'rubik'; src: url("../fonts/rubik-black-webfont.eot"); src: url("../fonts/rubik-black-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/rubik-black-webfont.woff2") format("woff2"), url("../fonts/rubik-black-webfont.woff") format("woff"), url("../fonts/rubik-black-webfont.svg#rubikblack") format("svg"); font-weight: 800; font-style: normal; }
+@font-face { font-family: 'rubik'; src: url("../fonts/rubik-bold-webfont.eot"); src: url("../fonts/rubik-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/rubik-bold-webfont.woff2") format("woff2"), url("../fonts/rubik-bold-webfont.woff") format("woff"), url("../fonts/rubik-bold-webfont.svg#rubikbold") format("svg"); font-weight: 700; font-style: normal; }
+@font-face { font-family: 'rubik'; src: url("../fonts/rubik-light-webfont.eot"); src: url("../fonts/rubik-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/rubik-light-webfont.woff2") format("woff2"), url("../fonts/rubik-light-webfont.woff") format("woff"), url("../fonts/rubik-light-webfont.svg#rubiklight") format("svg"); font-weight: 300; font-style: normal; }
+@font-face { font-family: 'rubik'; src: url("../fonts/rubik-medium-webfont.eot"); src: url("../fonts/rubik-medium-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/rubik-medium-webfont.woff2") format("woff2"), url("../fonts/rubik-medium-webfont.woff") format("woff"), url("../fonts/rubik-medium-webfont.svg#rubikmedium") format("svg"); font-weight: 500; font-style: normal; }
+@font-face { font-family: 'rubik'; src: url("../fonts/rubik-regular-webfont.eot"); src: url("../fonts/rubik-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/rubik-regular-webfont.woff2") format("woff2"), url("../fonts/rubik-regular-webfont.woff") format("woff"), url("../fonts/rubik-regular-webfont.svg#rubikregular") format("svg"); font-weight: 400; font-style: normal; }
+/* variable */
+/* reset */
+html, body { font-family: "Roboto", sans-serif; font-size: 18px; line-height: 1.67; font-weight: 400; color: #333333; }
+
+@media (min-width: 576px) { html, body { font-size: 18px; line-height: 1.67; font-weight: 400; } }
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-weight: 700; font-family: "rubik", sans-serif; line-height: 1.3; }
+
+@media (min-width: 768px) { .lead { font-size: 1.33rem; line-height: 1.5; }
+  .lead-lg { font-size: 1.67rem; } }
+p { margin-bottom: 1.1rem; }
+
+h4 { font-size: 1.33rem; }
+
+.footer p, .footer a { font-size: 16px; font-weight: 400; }
+.footer .wgs-title { font-size: 18px; font-weight: 400; }
+
+.tc-bunker.footer p, .tc-bunker.footer a { color: #999999 !important; }
+
+.btn-creative { font-family: "rubik", sans-serif; }
+
+/* END */

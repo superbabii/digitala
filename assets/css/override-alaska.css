@@ -1,0 +1,22 @@
+/*!
+ * Theme Name: Genox -  Multipurpose HTML Template
+ * Version: 1.4.1
+ * Updated: 11.27.2019
+**/
+/* 01. Fonts */
+@font-face { font-family: 'Lato'; src: url("../fonts/Lato-Regular.eot"); src: local("Lato Regular"), local("Lato-Regular"), url("../fonts/Lato-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff"), url("../fonts/Lato-Regular.ttf") format("truetype"); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'Lato'; src: url("../fonts/Lato-Light.eot"); src: local("Lato-Light"), url("../fonts/Lato-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Light.woff2") format("woff2"), url("../fonts/Lato-Light.woff") format("woff"), url("../fonts/Lato-Light.ttf") format("truetype"); font-weight: 300; font-style: normal; }
+@font-face { font-family: 'Lato'; src: url("../fonts/Lato-Bold.eot"); src: local("Lato Bold"), local("Lato-Bold"), url("../fonts/Lato-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Bold.woff") format("woff"), url("../fonts/Lato-Bold.ttf") format("truetype"); font-weight: bold; font-style: normal; }
+@font-face { font-family: 'Lato'; src: url("../fonts/Lato-Black.eot"); src: local("Lato Black"), local("Lato-Black"), url("../fonts/Lato-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff"), url("../fonts/Lato-Black.ttf") format("truetype"); font-weight: 900; font-style: normal; }
+/* variable */
+/* reset */
+html, body { font-family: "Lato", sans-serif; font-size: 18px; line-height: 1.66; font-weight: 300; color: #4a4a4a; }
+
+@media (min-width: 576px) { html, body { font-size: 18px; line-height: 1.66; font-weight: 300; line-height: 1.41; } }
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-weight: 900; font-family: "Lato", sans-serif; line-height: 1.3; }
+
+.menu-item a { font-family: "Lato", sans-serif; font-weight: 700; }
+
+.btn { font-family: "Lato", sans-serif; font-weight: 900; }
+
+/* END */

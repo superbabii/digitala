@@ -1,0 +1,31 @@
+/*!
+ * Theme Name: Genox -  Multipurpose HTML Template
+ * Version: 1.4.1
+ * Updated: 11.27.2019
+**/
+/* variable */
+/* reset */
+body { color: #92a6e4 !important; line-height: 1.875; }
+
+.text-block h2 + p { margin-top: 0; }
+
+.tc-bunker p, .tc-bunker .btn-arrow-alt { color: #92a6e4; }
+
+.tc-bunker p:not(.lead) { color: #92a6e4; }
+
+.lead { color: #92a6e4 !important; }
+
+.bg-ocean-pattern li { color: #92a6e4 !important; }
+.bg-ocean-pattern .wgs-menu li a { color: #92a6e4; }
+.bg-ocean-pattern .social-s5 li a { color: #92a6e4; }
+
+.pricing-boxed-s4 .pricing-price .price-for { color: #92a6e4; }
+
+.post-full-s2 .post-content p { color: #ffffff; }
+.tc-bunker .post-full-s2 .post-content p { color: #92a6e4; }
+
+.form-input-fill::placeholder { color: #92a6e4; }
+
+.wgs-recents-s2 .post-recent .post-tag { color: #92a6e4; }
+
+/* END */
